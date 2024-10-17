@@ -4,9 +4,3 @@ body {
   margin: 0;
   display: flex;
 }
-
-#react {
-  height: calc(100vh - 21px);
-  margin: 10px;
-  width: calc(100vw - 20px);
-}
